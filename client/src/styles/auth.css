@@ -1,0 +1,25 @@
+
+.auth_page .row{
+      border-radius: 30px;
+      background: white;
+      box-shadow: 12px 12px 22px grey;
+}
+.auth_page img{
+      border-top-left-radius: 30px;
+      border-bottom-left-radius: 30px;
+}
+.auth_page .btn1{
+      border: none;
+      outline: none;
+      height: 50px;
+      width: 100%;
+      background-color: black;
+      color: white;
+      border-radius: 4px;
+      font-weight: bold;
+}
+.auth_page .btn1:hover{
+      background: white;
+      border: 1px solid;
+      color: black;
+}
